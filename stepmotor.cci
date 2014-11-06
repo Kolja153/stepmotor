@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:454A93D5
+NODE:I LEVEL:0 LINE:27 "C:\cvavreval\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavreval\inc\delay.h"
+NODE:F LEVEL:0 LINE:31 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:40 "main(void)"
