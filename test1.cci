@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:454ABDFA
+NODE:I LEVEL:0 LINE:36 "C:\cvavreval\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:37 "C:\cvavreval\inc\delay.h"
+NODE:V LEVEL:0 LINE:38 "i -> R3"
+NODE:V LEVEL:0 LINE:39 "startstop -> GPIOR0.0"
+NODE:F LEVEL:0 LINE:41 "OneRpm(void)"
+NODE:F LEVEL:0 LINE:68 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:85 "main(void)"

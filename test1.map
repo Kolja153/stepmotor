@@ -1,0 +1,13 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+i                                                                 R3           1
+startstop                                                         GPIOR0.0  1bit
